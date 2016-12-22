@@ -1,0 +1,17 @@
+K 25
+svn:wc:ra_dav:version-url
+V 27
+/svn/Hello/!svn/ver/3/Hello
+END
+.classpath
+K 25
+svn:wc:ra_dav:version-url
+V 38
+/svn/Hello/!svn/ver/2/Hello/.classpath
+END
+.project
+K 25
+svn:wc:ra_dav:version-url
+V 36
+/svn/Hello/!svn/ver/2/Hello/.project
+END
